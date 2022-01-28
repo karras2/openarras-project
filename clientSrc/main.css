@@ -233,6 +233,7 @@ a.menuTab.discord {
 }
 a.menuTab.stat {
   background: #f00 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKUlEQVQoU2NkQAP/////DxJiZGRkRJZC4YAkcCpEl6C9QrgNhKweSgoBUcBf8wTAguMAAAAASUVORK5CYII=) 10px 8px no-repeat;
+  image-rendering: pixelated;
   /*
   let canvas = document.body.appendChild(document.createElement('canvas'))
   canvas.width = 10
